@@ -13,8 +13,10 @@
 [Portal de gestion y valoracion de peliculas - Java-Spring](https://github.com/mattyys/filmWeb.git)
 
 ## Mis estadisticas en GitHub
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mattyys&show_icons=true&theme=tokyonight)
 
-[![Hua's github stats](https://github-readme.stats.vercel.app/api?username=mattyys&show_icons=true$theme=dark)](https://github.com/mattyys/github-readme-stats)
+### Contact:
+
 <!--
 **mattyys/mattyys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
