@@ -1,6 +1,6 @@
 ## Hola a todos! 👋  Bienvenidos a mi perfil de GitHub
 
-### Aqui podras encontrar todo el codigo que he ido aprendiendo y los proyectos que estoy trabajando.
+### Aqui podras encontrar todo el codigo que he ido aprendiendo y los proyectos en que estoy trabajando.
 
 ![](https://images.pexels.com/photos/1181675/pexels-photo-1181675.jpeg)
 
